@@ -2,7 +2,7 @@
 
 ## File Naming Convention
 
-Before submitting your task, please make sure you've named your directory according to this convention.
+Before submitting your task, please make sure you've named your directory or file according to this convention.
 The name is divided into 3 sections:
 - **w1**: The first section is used to say the week of the jobsheet. For example, `w1` means week 1, `w2` means week 2, so on and so forth.
 - **your_name**: The second section is used for your name, obviously. Make sure they're all in lowercased letter with spaces replaced with underscore. Remove punctuation if any.
