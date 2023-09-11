@@ -17,3 +17,4 @@ w2-Baihaqi_Aulia_Asyari-class_and_objects
 
 - Please don't commit directly to the `main` branch because you're more likely to override other people's work. Nobody wants that
 - Please submit all your jobsheets as a Pull Request with the appropriate title to avoid confusion.
+- Please write the week number and your name as the Pull Request title
